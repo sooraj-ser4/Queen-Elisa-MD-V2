@@ -19,7 +19,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"917034685001"
   },
 
  "ALIVE_MESSAGE" :{
@@ -60,7 +60,7 @@
   "OWNER_NAME" :{
   "description" : "Type bot owner name",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲"
   },
 
   "STICKER_PACK_NAME" :{
@@ -72,7 +72,7 @@
   "STICKER_AUTHOR_NAME" :{
   "description" : "Type stcker autor name",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"ꪶᴄ͢ʜʀᷧɪᷟsᴛͥʏ ͢ꫂsᴇʀ⋆🜲"
   },
 
   "ALIVE_LOGO" :{
